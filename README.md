@@ -7,7 +7,7 @@ Setup Database
 3. Pilih Admin pada baris MySQL dalam XAMPP
 4. Terbuka phpMyAdmin kemudian pilih New dan masukan "wide" sebagai database name
 5. Klik Create
-6. Pilih "wide" pada bagian kanan lalu pilih "Import" pada bagian atas
+6. Pilih "wide" pada bagian kiri lalu pilih "Import" pada bagian atas
 7. Pilih Choose File, lalu pilih wide.sql dan klik Go pada bawah kanan
 
 Setup Backend
